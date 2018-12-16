@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "876541185336",
+    "firebase_url": "https://codefundopp-35d3c.firebaseio.com",
+    "project_id": "codefundopp-35d3c",
+    "storage_bucket": "codefundopp-35d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876541185336:android:5b37fcdc98e2397d",
+        "android_client_info": {
+          "package_name": "com.saviour.yasharth.saviour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876541185336-9cvid9hrlq48br5d9fdivfnf0v12e913.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saviour.yasharth.saviour",
+            "certificate_hash": "8ebcc73b684575f1e11abc015de2c71a7ad3faaa"
+          }
+        },
+        {
+          "client_id": "876541185336-382tnr4eda164h8na091hc377ubed550.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvUzjQLtu12syQMFzJgvBEh3PLCXrodE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876541185336-382tnr4eda164h8na091hc377ubed550.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
